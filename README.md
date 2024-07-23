@@ -1,1 +1,0 @@
-# Data-analyst-Optimisez-gestion-donnees-boutique-Python
